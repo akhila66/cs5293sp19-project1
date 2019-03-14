@@ -1,0 +1,29 @@
+
+$$2019-03-14 05:57:19.589262$$
+all considered files from current and specifed folder(s) are 
+empty.txtgrant.txtmermaid.txt
+==========================empty.txt============================
+
+NO DATA to redact
+==========================grant.txt============================
+
+NAMES REDACTION 
+There are total :: 77 words which are redacted from this file 
+ ['Grant', 'Gainesville MS', 'Gainesville BS', 'Gainesville EXPERIENCE Assistant Professor', 'Data Mining', 'Text Analytics', 'School Computer Science University Oklahoma', 'Database Research Center Data Science Research Lab', 'Database Information Retrieval Web Search', 'Florida Georgia', 'College Engineering', 'Award SELECTED', 'Christan Grant', 'Josh Imbriani', 'Erik Holbrook', 'Visual Analytics', 'Christan Grant', 'Gupreet Kaur', 'Jared Bond', 'Josh Imbriani', 'Elaine Nsoesie', 'Tweet', 'Ninth', 'Daisy Zhe Wang', 'Michael Wick', 'Daisy Zhe Wang', 'Journal', 'Daisy Zhe Wang', 'Stream Analytics', 'Clint Pazhayidam George', 'Virupaksha Kanjilal', 'Supriya Nirkhiwale', 'Daisy Zhe Wang', 'Joseph N Wilson', 'Visualization Exploration System', 'Daisy', 'Yang Chen', 'Christan Earl Grant', 'Kun Li', 'Vol', 'Morteza', 'Shahriari Nia', 'Christan Grant', 'Yang Peng', 'Daisy Zhe Wang Milenko Petrovic', 'Fact Extraction Wikipedia Entities', 'Pensacola', 'Morteza', 'Shahriari Nia', 'Christan Grant', 'Yang Peng', 'Daisy Zhe Wang', 'Milenko Petrovic', 'Florida Knowledge Base', 'Kun Li', 'Christan Grant', 'Daisy Zhe Wang', 'George Chitouras', 'Greenplum Parallel Statistical Text Analysis Framework', 'Workshop Data', 'Cloud SIGMOD', 'Kun Li', 'Daisy Zhe Wang', 'George Chitouras', 'Daisy', 'Yang Chen', 'Sean Goldberg', 'Christan Grant Kun Li', 'Automatic', 'Knowledge Base', 'Deductive Reasoning', 'Human Feedback', 'Clint P. George', 'Chris Jenneisch', 'Joseph N. Wilson', 'Online', 'Topic Modeling']
+
+No output folder is given - saves it to the default folder called outputfiles
+
+final redacted file name :grant.redacted
+==========================mermaid.txt============================
+
+NAMES REDACTION 
+There are total :: 1 words which are redacted from this file 
+ ['Sea King']
+
+No output folder is given - saves it to the default folder called outputfiles
+
+final redacted file name :mermaid.redacted
+No stats file is given - saves it to the default file called default_stats
+
+END OF STATS : saving stats into the file default_stats
+
