@@ -3,7 +3,8 @@ import pytest
 file = "tests/sample.txt"
 fileopen = open(file, "r")
 string =  fileopen.read()
-if(string != ""):
-    (string,locs) = main.redact_locs(string)
-    assert string is not None
-    assert len(locs) == 2
+def test_redact_locs():
+    if(string != ""):
+        (string1,locs) = main.redact_locs(string)
+        assert string1 is not None
+        assert len(locs) == 2

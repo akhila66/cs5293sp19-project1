@@ -3,7 +3,8 @@ import pytest
 file = "tests/sample.txt"
 fileopen = open(file, "r")
 string =  fileopen.read()
-if(string != ""):
-    (string,gender) = main.redact_gender(string)
-    assert string is not None
-    assert len(gender) == 43
+def test_redact_gender():
+    if(string != ""):
+        (string1,gender) = main.redact_gender(string)
+        assert string1 is not None
+        assert len(gender) == 43
